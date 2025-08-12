@@ -183,3 +183,23 @@ body::before {
 }
 
 /* End of Section : Weather-info */
+
+/*  SECTION : MESSAGE */
+
+.section-message {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 15px;
+    margin-top: 25%;
+
+}
+
+.section-message img {
+    height: 180px;
+    width: fit-content;
+}
+
+/*  END OF SECTION : MESSAGE */
